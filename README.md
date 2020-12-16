@@ -1,4 +1,4 @@
-.# solutions of problems related to python
+# solutions of problems related to python
 
 #fermat.py - program to check  whether the given numbers satisfy the conditions of Fermat's last theorem.
 
